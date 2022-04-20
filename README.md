@@ -23,3 +23,11 @@
 ```bash
 /Applications/GitHub Desktop.app/Contents/Resources/app
 ```
+
+## 屏蔽更新
+修改hosts
+```bash
+sudo vi /etc/hosts
+
+172.17.0.1 desktop.githubusercontent.com
+```
