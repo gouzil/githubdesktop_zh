@@ -31,3 +31,5 @@ sudo vi /etc/hosts
 
 172.17.0.1 desktop.githubusercontent.com
 ```
+
+# 本项目已不再更新后续更新将会从源码翻译打包 [here](https://github.com/gouzil/github-desktop-zh)
